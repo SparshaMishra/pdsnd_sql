@@ -1,4 +1,6 @@
 # pdsnd_sql
+
+# Investigate a Relational Database 
 In this project, SQL was used to explore a database related to movie rentals. 
 
 SQL code was written to run the SQL queries and to answer interesting questions about the database. As part of the project submission, output was generated to present the output.
